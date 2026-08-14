@@ -1,0 +1,44 @@
+body{
+    background: grey;
+}
+.menu{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 600px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+
+h1{
+    color: white;
+    margin-left: 400px;
+}
+
+h2{
+    margin-left: 350px;
+    font-size: 50px;
+}
+
+input{
+    width: 600px;
+    height: 2%;
+    margin-bottom: 30px;
+}
+
+#botaoPesquisa{
+    margin-left: 300px;
+    background-color: brown;
+    border-radius: 30px;
+}
+
+header{
+    background-color: black;
+
+}
+
+.texto{
+    margin-left: 30px;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 10px;
+}
