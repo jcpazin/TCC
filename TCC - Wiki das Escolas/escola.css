@@ -10,6 +10,19 @@ body{
     border-radius: 10px;
 }
 
+.menu2{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 650px;
+    margin-left: 130px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+
+.plinio{
+    margin-left: 100px;
+}
+
 h1{
     color: white;
     margin-left: 375px;
@@ -50,13 +63,23 @@ header{
     margin-left: 30px;
 }
 
+#plinio{
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: double;
+    height: 200px;
+    width: 440px;
+    margin-left: 500px;
+    margin-top: -250px;
+}
+
 .exupa{
     border-style: double;
     border-radius: 30px;
     height: 250px;
     width: 500px;
     margin-left: 450px;
-    margin-top: -160px;
+    margin-top: -220px;
 }
 
 a {
