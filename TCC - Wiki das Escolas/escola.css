@@ -1,0 +1,72 @@
+body{
+    background: grey;
+}
+.menu{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 600px;
+    margin-left: 130px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
+    margin-left: 375px;
+}
+
+h2{
+    margin-left: 170px;
+    font-size: 50px;
+}
+
+h3{
+    margin-left: 30px;
+}
+
+input{
+    width: 600px;
+    height: 2%;
+    margin-bottom: 30px;
+}
+
+#botaoPesquisa{
+    margin-left: 300px;
+    background-color: rgb(42, 120, 165);
+    border-radius: 4px;
+}
+
+.buscar{
+    height: 15px;
+}
+
+header{
+    background-color: black;
+    border-radius: 10px;
+    height: 170px;
+}
+
+.texto{
+    margin-left: 30px;
+}
+
+.exupa{
+    border-style: double;
+    border-radius: 30px;
+    height: 250px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: -160px;
+}
+
+a {
+    border-radius: 10px;  
+    border-width: 2px;
+    border-style: double;
+    font-size: 30px;
+    margin-left: 130px;
+    text-decoration: none;
+    color: white;
+
+}
+
